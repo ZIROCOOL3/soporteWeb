@@ -33,18 +33,20 @@ body {
 .colorDark { color: var(--dark-color) !important; }
 
 h1 { font-size: 66px; font-weight: 700; line-height: 80px; }
-h2 { font-size: 48px; margin-bottom: 30px; }
+h2 { font-size: 15px; margin-bottom: 50px;margin-top: 40px; }
 h3 { font-size: 33px; }
 h5 { margin-bottom: 0px; }
 
 p {
-    font-size: 18px;
+    font-size: 11px;
     color: var(--dark-color);
     opacity: .5;
     line-height: 1.8;
     margin-bottom: 0px;
 }
-
+b{
+    font-size: 50px;
+}
 a:hover { text-decoration: none; }
 
 .btn {
